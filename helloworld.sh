@@ -4,7 +4,4 @@ echo Hello World
 
 sleep 20
 
-echo Finished
-echo Finished
-echo Finished
-echo Finished
+echo Earth Hour March 30th 20:30 - 21:30
