@@ -6,3 +6,4 @@ sleep 20
 
 echo Finished
 echo Finished
+echo Finished
